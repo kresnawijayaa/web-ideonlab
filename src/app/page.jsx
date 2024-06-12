@@ -170,7 +170,7 @@ function Services() {
 
 export const metadata = {
   description:
-    'We are a development studio working at the intersection of design and technology.',
+    'IDEONLAB: High-quality, innovative websites for businesses and communities.',
 }
 
 export default async function Home() {

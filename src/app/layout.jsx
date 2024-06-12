@@ -15,8 +15,8 @@ export default function Layout({ children }) {
     <html lang="en" className="h-full bg-neutral-950 text-base antialiased">
       <Head>
         {/* Other meta tags and links */}
-        {/* <link rel="shortcut icon" href="/src/images/logo/ideon.jpg"/> */}
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="shortcut icon" href="/src/images/logo/ideon.jpg"/>
+        {/* <link rel="icon" href="/favicon.ico" /> */}
       </Head>
       <body className="flex min-h-full flex-col">
         <RootLayout>{children}</RootLayout>

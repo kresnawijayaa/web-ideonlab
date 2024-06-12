@@ -123,7 +123,7 @@ function Services() {
         className="mt-24 sm:mt-32 lg:mt-40"
       >
         <p>
-        At IDEONLAB, we specialize in providing comprehensive web solutions tailored to your specific needs. Our services are designed to help you succeed online, whether you're a small business, a startup, or an institution.
+        At IDEONLAB, we specialize in providing comprehensive web solutions tailored to your specific needs. Our services are designed to help you succeed online, whether you&apos;re a small business, a startup, or an institution.
         </p>
       </SectionIntro>
       <Container className="mt-16">

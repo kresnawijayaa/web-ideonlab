@@ -164,7 +164,7 @@ export default function Contact() {
   return (
     <>
       <PageIntro eyebrow="Contact us" title="Ready to Get Started?">
-        <p>Tell us about your project and let's bring your vision to life together.</p>
+        <p>Tell us about your project and let&apos;s bring your vision to life together.</p>
       </PageIntro>
 
       <Container className="mt-24 sm:mt-32 lg:mt-40">

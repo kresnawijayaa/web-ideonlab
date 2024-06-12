@@ -198,7 +198,7 @@ export default async function About() {
         </p> */}
         <div className="mt-10 max-w-2xl space-y-6 text-base">
           <p>
-            At IDEONLAB, we specialize in crafting exceptional websites that not only capture your brand's essence but also drive engagement and growth. Our mission is to deliver modern, innovative web solutions that are both visually stunning and highly functional, tailored to meet the unique needs of each client.
+            At IDEONLAB, we specialize in crafting exceptional websites that not only capture your brand&apos;s essence but also drive engagement and growth. Our mission is to deliver modern, innovative web solutions that are both visually stunning and highly functional, tailored to meet the unique needs of each client.
           </p>
           <p>
           IDEONLAB stands out through our commitment to quality, competitive pricing, and constant innovation. From hosting services to cutting-edge designs, we ensure that your website is equipped to thrive in the digital landscape.

@@ -37,7 +37,7 @@ function Clients() {
       <Container>
         <FadeIn className="flex items-center gap-x-8">
           <h2 className="text-center font-display text-sm font-semibold tracking-wider text-white sm:text-left">
-            We’ve worked with hundreds of amazing people
+            We&apos;ve worked with hundreds of amazing people
           </h2>
           <div className="h-px flex-auto bg-neutral-800" />
         </FadeIn>
@@ -68,7 +68,7 @@ function CaseStudies({ caseStudies }) {
         className="mt-24 sm:mt-32 lg:mt-40"
       >
         <p>
-        Explore our latest work and see how we’ve helped businesses and organizations achieve their online goals with bespoke website solutions.
+        Explore our latest work and see how we&apos;ve helped businesses and organizations achieve their online goals with bespoke website solutions.
         </p>
       </SectionIntro>
       <Container className="mt-16">
@@ -145,7 +145,7 @@ function Services() {
             Maximize your marketing efforts with high-impact landing pages. Our custom designs are optimized for performance, ensuring you capture leads and convert visitors effectively.
             </ListItem>
             <ListItem title="Showcase Your Brand">
-            Present your business professionally with our tailor-made websites. Whether you’re a startup or an established enterprise, we create sites that highlight your vision, values, and achievements.
+            Present your business professionally with our tailor-made websites. Whether you&apos;re a startup or an established enterprise, we create sites that highlight your vision, values, and achievements.
             </ListItem>
             <ListItem title="Community and Institutional Websites">
             Strengthen your community or institution with a dedicated website. We design platforms that inform, engage, and inspire your audience, fostering a sense of connection and purpose.

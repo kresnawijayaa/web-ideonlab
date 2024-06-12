@@ -17,18 +17,29 @@ import logoNorthAdventures from '@/images/clients/north-adventures/logo-light.sv
 import logoPhobiaDark from '@/images/clients/phobia/logo-dark.svg'
 import logoPhobiaLight from '@/images/clients/phobia/logo-light.svg'
 import logoUnseal from '@/images/clients/unseal/logo-light.svg'
-import imageLaptop from '@/images/laptop.jpg'
+import logoTakde from '@/images/clients/takde-client.png'
+import imageLaptop from '@/images/laptop2.jpeg'
 import { loadCaseStudies } from '@/lib/mdx'
 
+// const clients = [
+//   ['Phobia', logoPhobiaLight],
+//   ['Family Fund', logoFamilyFund],
+//   ['Unseal', logoUnseal],
+//   ['Mail Smirk', logoMailSmirk],
+//   ['Home Work', logoHomeWork],
+//   ['Green Life', logoGreenLife],
+//   ['Bright Path', logoBrightPath],
+//   ['North Adventures', logoNorthAdventures],
+// ]
 const clients = [
-  ['Phobia', logoPhobiaLight],
-  ['Family Fund', logoFamilyFund],
-  ['Unseal', logoUnseal],
-  ['Mail Smirk', logoMailSmirk],
-  ['Home Work', logoHomeWork],
-  ['Green Life', logoGreenLife],
-  ['Bright Path', logoBrightPath],
-  ['North Adventures', logoNorthAdventures],
+  ['Clients', logoTakde],
+  ['Clients', logoTakde],
+  ['Clients', logoTakde],
+  ['Clients', logoTakde],
+  ['Clients', logoTakde],
+  ['Clients', logoTakde],
+  ['Clients', logoTakde],
+  ['Clients', logoTakde],
 ]
 
 function Clients() {
@@ -37,7 +48,7 @@ function Clients() {
       <Container>
         <FadeIn className="flex items-center gap-x-8">
           <h2 className="text-center font-display text-sm font-semibold tracking-wider text-white sm:text-left">
-            We&apos;ve worked with hundreds of amazing people
+            We&apos;ve had the pleasure of working with these exceptional clients
           </h2>
           <div className="h-px flex-auto bg-neutral-800" />
         </FadeIn>
@@ -182,12 +193,12 @@ export default async function Home() {
 
       <CaseStudies caseStudies={caseStudies} />
 
-      <Testimonial
+      {/* <Testimonial
         className="mt-24 sm:mt-32 lg:mt-40"
         client={{ name: 'Phobia', logo: logoPhobiaDark }}
       >
         The team at IDEONLAB delivered beyond our expectations. Our website is modern, sleek, and user-friendly. Highly recommend their services.
-      </Testimonial>
+      </Testimonial> */}
 
       <Services />
 
